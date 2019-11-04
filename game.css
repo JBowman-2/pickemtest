@@ -110,8 +110,8 @@ nav {
    
    nav ul.menu li a:hover {
                             color: white;	
-                            background-color: red;
-                             /* background-color: #262525;*/
+                            
+                             background-color: #262525;
                            }
                          }
 
