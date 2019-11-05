@@ -12,8 +12,7 @@
     $SG10=$_POST["SundayGame10"];
     $SG11=$_POST["SundayGame11"];
     $SG12=$_POST["SundayGame12"];
-    $SG11=$_POST["SundayGame11"];
-    $SG12=$_POST["SundayGame12"];
+ 
     //  $SG13=$_POST["SundayGame13"];
     //  $SG14=$_POST["SundayGame14"];
     $MG1=$_POST["MondayGame1"];
