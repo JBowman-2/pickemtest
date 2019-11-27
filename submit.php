@@ -1,5 +1,7 @@
 <?php
-    $thursday=$_POST["Thursday"];
+    $thursday1=$_POST["ThursdayGame1"];
+    $thursday2=$_POST["ThursdayGame2"];
+    $thursday3=$_POST["ThursdayGame3"];
     $SG1=$_POST["SundayGame1"];
     $SG2=$_POST["SundayGame2"];
     $SG3=$_POST["SundayGame3"];
@@ -24,7 +26,9 @@
 
     $email_body="Name = $Name\n
     Send Picks to = $Mail\n
-    Thursday = $thursday\n
+    ThursdayGame1 = $thursday1\n
+    ThursdayGame2 = $thursday2\n
+    ThursdayGame3 = $thursday3\n
     SundayGame1 = $SG1\n
     SundayGame2 = $SG2\n
     SundayGame3 = $SG3\n
